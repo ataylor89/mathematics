@@ -42,11 +42,13 @@ We can do 327 + 468 in our heads, but we can also do long addition
 
 Let's use long addition
 
+```
   1
  327
  468
 ----
  795
+```
 
 There we go
 
@@ -66,11 +68,13 @@ So let's take a different approach
 
 Let's use long addition
 
+```
 1111001
 03681238
 38649743
 --------
 42330981
+```
 
 We get an answer of 42330981
 
@@ -120,8 +124,10 @@ It's important to know that long addition is based on the rules of arithmetic
 
 Let's explain
 
+```
 327 + 468 = 300 + 20 + 7 + 400 + 60 + 8
 327 + 468 = (7 + 8) + (20 + 60) + (300 + 400)
+```
 
 When we do long addition, we add seven and eight, and we carry the tens digit
 
