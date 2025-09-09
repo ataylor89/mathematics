@@ -32,6 +32,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Calculus | The field of mathematics concerned with calculating a slope, area, or volume |
 | Combinatorics | The field of mathematics concerned with counting |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
+| Decision tree | A tree of possible decisions. It's important for the list/tree to be psychologically safe. |
 | Expected value | A vector of measurements that helps us determine expected value; the (cost, benefit) vector; the (risk, reward) vector |
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
