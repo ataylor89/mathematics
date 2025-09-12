@@ -44,6 +44,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Measurement | A number accompanied by a unit of measurement; a number and a unit (e.g. 100 yards, 24 hours, 100 gigabytes) |
 | Model | A model is an explanation; a model can explain something or make predictions; a model is a pattern |
 | Number theory | The study of numbers |
+| Outcome tree | A tree of possible outcomes. It's important for the list/tree to be psychologically safe. |
 | Parser | A parser breaks a whole into its parts; a parser breaks a word, sentence, or file into its parts; the word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" |
 | Pattern | A pattern is something that repeats |
 | Possibility tree | A tree of possibilities is useful when analyzing a person or situation. It's important for the tree of possibilities to be psychologically safe. |
