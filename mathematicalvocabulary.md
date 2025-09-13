@@ -29,6 +29,8 @@ In the table below, I'll define some important words from the field of mathemati
 | Argument | A list of statements or a sequence of statements; a list of steps or a sequence of steps |
 | Arithmetic | The study of numbers and numerical operations |
 | Best case scenario | The best possible outcome |
+| Best decision | The best possible decision |
+| Best move | The best possible move |
 | Calculus | The field of mathematics concerned with calculating a slope, area, or volume |
 | Combinatorics | The field of mathematics concerned with counting |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
