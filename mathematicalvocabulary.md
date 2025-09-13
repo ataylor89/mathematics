@@ -26,7 +26,7 @@ In the table below, I'll define some important words from the field of mathemati
 |----- | ----------
 | Algebra | The field of mathematics concerned with solving for an unknown or solving equations; the study of equations |
 | Algorithm | A list of instructions |
-| Argument | A list of statements or a sequence of statements; a list of steps or a sequence of steps |
+| Argument | An argument is a series of statements that works toward a conclusion |
 | Arithmetic | The study of numbers and numerical operations |
 | Best case scenario | The best possible outcome |
 | Best decision | The best possible decision |
