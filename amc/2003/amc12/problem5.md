@@ -14,7 +14,7 @@ The variables A, M, and C are digits, and each digit has a weight, according to 
 
 We can write the following equation:
 
-A*10^4 + M*10^3 + C*10^2 + 10 + A*10^4 + M*10^3 + C*10^2 + 12 = 123422
+    A*10^4 + M*10^3 + C*10^2 + 10 + A*10^4 + M*10^3 + C*10^2 + 12 = 123422
 
 Now we can simplify
 
