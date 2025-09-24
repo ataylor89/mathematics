@@ -26,11 +26,11 @@ The total time elapsed is 30 minutes + 10 minutes = 40 minutes
 
 Thus the average speed, for the round trip, can be written as:
 
-v_{avg} = total distance travelled / total time elapsed (step 1)  
-        = 2 kilometers / 40 minutes                     (step 2)  
-        = 1 kilometer / 20 minutes                      (step 3)  
-        = 3 kilometers / 60 minutes                     (step 4)  
-        = 3 kilometers / hour                           (step 5)
+    v_{avg} = total distance travelled / total time elapsed (step 1)
+            = 2 kilometers / 40 minutes                     (step 2)
+            = 1 kilometer / 20 minutes                      (step 3)
+            = 3 kilometers / 60 minutes                     (step 4)
+            = 3 kilometers / hour                           (step 5)
 
 You can see that... in step two... we substituted the values that we calculated
 
