@@ -21,3 +21,8 @@ Here is a list of resources for learning mathematics:
     - Alcumus lets you solve math problems online, one by one
     - Alcumus is as fun, and as instructive, as the AMC/AIME/Putnam exams
     - I'm really grateful for Alcumus and I love using Alcumus in my spare time
+7. The Art and Craft of Problem Solving by Paul Zeitz
+    - I bought this book in high school, after a friend of mine recommended it
+    - I started reading this book in my senior year of high school
+    - I worked through the problems, and learned a lot about problem solving
+    - I still read this book today
