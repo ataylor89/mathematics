@@ -29,7 +29,7 @@ We can draw a point at the center of the equilateral triangle
 
 We can draw three perpendiculars from this point to the sides of the equilateral triangle
 
-This creates three 30-60-90 right triangles
+This creates six 30-60-90 right triangles
 
 Each 30-60-90 right triangle has a side length of P/6 opposite the 60 degree angle
 
