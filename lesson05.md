@@ -204,11 +204,11 @@ In postfix notation, the operator is placed after the operands
 
 In algebraic equations, we are accustomed to placing the = sign between two expressions
 
-The equals sign is a symbol (and also a relation) that asserts two expressions are equals
+The equals sign is a symbol (and also a relation) that asserts two expressions are equal
 
-Equality is a relation that asserts two expressions are equals
+Equality is a relation that asserts two expressions are equal
 
-The equals sign is a symbol that asserts to expressions are equal
+The equals sign is a symbol that asserts two expressions are equal
 
 We are accustomed to placing the = sign in between two algebraic expressions
 
