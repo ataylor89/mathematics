@@ -218,7 +218,7 @@ It is easy to write this equation using infix notation
 
 What if we wrote this equation using prefix notation?
 
-+ 2 * 6 10 = * 2 x
+\+ 2 * 6 10 = * 2 x
 
 Honestly, it's not clear where we should put the = sign
 
