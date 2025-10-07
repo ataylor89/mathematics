@@ -164,7 +164,7 @@ What if we write (2 + 6) * 10?
 
 Parentheses tell us to evaluate the expression 2 + 6 first
 
-(2 + 6) * 10 = 8 + 10 = 80
+(2 + 6) * 10 = 8 * 10 = 80
 
 So you see, when we evaluate an arithmetic expression written using infix notation, we have to know the order of operations
 
