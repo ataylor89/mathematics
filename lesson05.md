@@ -226,7 +226,7 @@ Maybe you can think of a better way of writing this equation using prefix notati
 
 I have thought about it for some time...
 
-I cannot think of a good way to write equations using infix notation
+I cannot think of a good way to write equations using prefix notation
 
 Equations are so important, in algebra and also in arithmetic, that it makes sense to use infix notation
 
