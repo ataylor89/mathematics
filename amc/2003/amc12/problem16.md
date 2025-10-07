@@ -46,3 +46,7 @@ The answer is (C) 1/3
 Afterword:
 
 If we allow P to be any point in the interior, including the incenter, I think that the probability is still the same... it's just hard to explain how the probability does not change
+
+Perhaps the answer is 1/3
+
+Perhaps the answer is 1/3 minus an infinitesimal
