@@ -77,6 +77,6 @@ There are many ways of enumerating these squares, but one way is this:
 Square one is numbers  
 Square two is arithmetic  
 Square three is algebra  
-Square three is geometry  
+Square four is geometry
 
 When we reach geometry, and discover Pi, we will find reason to revisit square one, and renew our discussion of numbers
