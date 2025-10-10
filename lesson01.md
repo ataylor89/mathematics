@@ -1,4 +1,4 @@
-# Lesson 1: Definitions
+## Lesson 1: Definitions
 
 The first lesson is to give mathematics a good definition
 

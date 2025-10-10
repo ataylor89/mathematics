@@ -1,4 +1,4 @@
-# Lesson 3: Arithmetic; the rules of arithmetic; the properties of real numbers
+## Lesson 3: Arithmetic; the rules of arithmetic; the properties of real numbers
 
 I'm listening to Hurricane by Fleurie while I write this
 
