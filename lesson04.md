@@ -1,4 +1,4 @@
-# Lesson 4
+# Lesson 4: Long addition, long subtraction, long multiplication, long division
 
 In the last lesson, we calculated 327 + 468
 
@@ -181,7 +181,9 @@ Here are some definitions of the word system:
 
 1. A system is a list (e.g. system of equations)
 2. A system of a list of instructions
-3. A system is a procedure
+3. A system is a procedure (e.g. long addition is a system for adding numbers)
+4. A system is a set
+5. A system is a set of parts that work together and form a whole (e.g. operating system, computer system)
 
 A number system is a procedure for writing numbers
 
