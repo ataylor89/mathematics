@@ -1,4 +1,4 @@
-# Lesson 2
+# Lesson 2 (Number systems)
 
 I want each lesson to be very valuable, very useful
 
