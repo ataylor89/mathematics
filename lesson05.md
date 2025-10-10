@@ -1,4 +1,4 @@
-## Lesson 5: Notation; the order of operations; PEMDAS
+## Lesson 5: Notation, the order of operations, PEMDAS
 
 In the last lesson, we talked at length about long addition
 
