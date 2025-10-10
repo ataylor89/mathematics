@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 1 (Definitions)
 
 The first lesson is to give mathematics a good definition
 
@@ -12,6 +12,7 @@ Here are some definitions that my family and I use
 4. Mathematics is education
 5. Mathematics is truth
 6. Mathematics is correctness
+7. Mathematics is the study of mathematical objects
 
 Mathematics is really a language, just like English and Spanish
 
