@@ -66,6 +66,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Property | A property is a thing that belongs to another thing (e.g. properties of real numbers, properties of arithmetic) |
 | Provenance | What came before (e.g. it is so hard to explain the provenance of that tweet) |
 | Rationale | A reason or an argument |
+| Real number | A real number is a point on the number line; a real number is an equivalence class of Cauchy sequences; a real number is the limit of a sequence of rational numbers under the Cauchy definition of convergence (we can think of the Cauchy definition of convergence as a third definition of convergence, which follows the epsilon-delta definition for functions and the epsilon-N definition for sequences) |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
