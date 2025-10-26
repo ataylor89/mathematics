@@ -33,7 +33,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Best decision | The best possible decision |
 | Best move | The best possible move |
 | Calculus | Calculating a slope or an area; calculating a slope, area, or volume |
-| Cauchy sequence | A sequence of rational numbers a(n) is a Cauchy sequence if and only if for every rational e > 0 there exists an integer N >= 0 such that |a(j) - a(k)| <= e for all j, k >= N (source: Analysis I by Terence Tao); a sequence of rational numbers is a Cauchy sequence iff for all epsilon > 0 there exists an index after which any two elements are epsilon-close |
+| Cauchy sequence | A sequence of rational numbers a(n) is a Cauchy sequence if and only if for every rational e > 0 there exists an integer N >= 0 such that \|a(j) - a(k)\| <= e for all j, k >= N (source: Analysis I by Terence Tao); a sequence of rational numbers is a Cauchy sequence iff for all epsilon > 0 there exists an index after which any two elements are epsilon-close |
 | Combinatorics | The field of mathematics concerned with counting |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
