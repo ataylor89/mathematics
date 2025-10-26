@@ -26,12 +26,14 @@ In the table below, I'll define some important words from the field of mathemati
 |----- | ----------
 | Algebra | Solving for an unknown; the study of equations; arithmetic with variables |
 | Algorithm | A list of instructions |
+| Analysis | Analysis is the rigorous study of mathematical objects (source: Analysis I by Terence Tao) |
 | Argument | An argument is a series of statements that works toward a conclusion |
 | Arithmetic | Math using the basic arithmetic operations (e.g. + - * / powers roots and modulo) |
 | Best case scenario | The best possible outcome |
 | Best decision | The best possible decision |
 | Best move | The best possible move |
 | Calculus | Calculating a slope or an area; calculating a slope, area, or volume |
+| Cauchy sequence | A sequence of rational numbers a(n) is a Cauchy sequence if and only if for every rational e > 0 there exists an integer N >= 0 such that |a(j) - a(k)| <= e for all j, k >= N (source: Analysis I by Terence Tao); a sequence of rational numbers is a Cauchy sequence iff for all epsilon > 0 there exists an index after which any two elements are epsilon-close |
 | Combinatorics | The field of mathematics concerned with counting |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
@@ -45,6 +47,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Formula | A formula is an equation or part of an equation (e.g. Pi r squared is a formula for the area of a circle of radius r) |
 | Gaussian elimination | A concise, efficient method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
 | Idea | An idea is a word or phrase |
+| Integer | An integer is an expression of the form a-b, where a and b are natural numbers (source: Analysis I by Terence Tao) |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
 | List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
@@ -68,7 +71,8 @@ In the table below, I'll define some important words from the field of mathemati
 | Provenance | What came before (e.g. it is so hard to explain the provenance of that tweet) |
 | Rational number | A rational number is an expression of the form a/b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao) |
 | Rationale | A reason or an argument |
-| Real number | A real number is a point on the number line; a real number is an equivalence class of Cauchy sequences; a real number is the limit of a sequence of rational numbers under the Cauchy definition of convergence (we can think of the Cauchy definition of convergence as a third definition of convergence, which follows the epsilon-delta definition for functions and the epsilon-N definition for sequences) |
+| Real analysis | The study of real numbers, the real number field, real sequences, real series, and real functions; the theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
+| Real number | A real number is a point on the number line; a real number is an equivalence class of Cauchy sequences; a real number is the limit of a Cauchy sequence; a real number is the limit of a sequence of rational numbers under the Cauchy definition of convergence |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the (risk, reward) vectors of two different decisions; comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
