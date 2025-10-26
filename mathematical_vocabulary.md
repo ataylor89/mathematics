@@ -86,6 +86,4 @@ In the table below, I'll define some important words from the field of mathemati
 | Variable | A variable is a container that holds a value |
 | Vector | A list of numbers |
 | Verify | Confirm that something is true (e.g. verify a story, verify a claim, verify an identity) |
-| Worst case scenario | I have OCD so it hurts that this is the last word in my mathematical glossary but listen, we need to find a word that starts with a letter after w, or a word that comes after this word (alphabetically). It suffices to say that worst case scenario does not need a definition. I have OCD so I think that this long treatise is enough and it really is the case that best case worst case analysis is a useful tool in analysis and reasoning. |
-| Xylophone | The xylophone is an instrument I want to learn |
-| Zero | The number zero is very useful in mathematics. Zero is the additive identity. |
+| Zero | Zero is the first natural number, as defined by the Peano axioms. Zero is the additive identity in the real number field. |
