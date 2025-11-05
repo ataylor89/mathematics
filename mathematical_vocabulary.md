@@ -54,8 +54,8 @@ In the table below, I'll define some important words from the field of mathemati
 | List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
 | Logical argument | A series of logical statements |
 | Mathematical notation | Mathematical notation is a language for writing down mathematical ideas. |
-| Matrix | A rectangular array of numbers. Matrices have many applications, including, solving a system of linear equations, transforming a vector by means of a linear transformation, and transforming an image by means of a linear transformation. |
-| Measurement | A number accompanied by a unit of measurement. A number and a unit. (E.g. 100 yards, 24 hours, 100 gigabytes.) |
+| Matrix | A rectangular array of numbers. We can use matrices to solve a system of linear equations. We can also use matrices to transform a vector or an image by means of a linear transformation. |
+| Measurement | A number accompanied by a unit of measurement. A number and a unit. (E.g. 100 yards, 24 hours) |
 | Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things (e.g. a model for predicting the weather); a model is a concrete representation of something abstract (e.g. there are many models of education) |
 | Natural number | (1) A natural number is any element of the set {0, 1, 2, 3, 4, ...} (source: Analysis I by Terence Tao) (2) A natural number is any number defined by the Peano axioms (3) A natural number is zero or any number that can be obtained from zero by incrementing (source: Analysis I by Terence Tao) |
 | Notation | A notation is a language (e.g. mathematical notation, decimal notation, chess notation) |
