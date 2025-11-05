@@ -54,6 +54,7 @@ In the table below, I'll define some important words from the field of mathemati
 | List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
 | Logical argument | A series of logical statements |
 | Mathematical notation | Mathematical notation is a language for writing down mathematical ideas. |
+| Mathematics | (1) Mathematics is numbers (2) Mathematics is the study of numbers (3) Mathematics is the language of numbers |
 | Matrix | A rectangular array of numbers. We can use matrices to solve a system of linear equations. We can also use matrices to transform a vector or an image by means of a linear transformation. |
 | Measurement | A number accompanied by a unit of measurement. A number and a unit. (E.g. 100 yards, 24 hours) |
 | Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things (e.g. a model for predicting the weather); a model is a concrete representation of something abstract (e.g. there are many models of education) |
