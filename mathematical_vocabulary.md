@@ -45,7 +45,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
 | Formula | A formula is an equation or part of an equation. (E.g. Pi r squared is a formula for the area of a circle of radius r.) |
-| Gaussian elimination | A concise, efficient method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
+| Gaussian elimination | (1) Matrix algebra (2) Gaussian elimination is a system we can use to solve a system of linear equations, in which we perform row operations on an augmented matrix. (We can also use Gaussian elimination to invert a matrix, if the matrix is invertible.) |
 | Idea | An idea is a word or phrase; an idea is a word, phrase, or sentence |
 | Integer | An integer is an expression of the form a - b, where a and b are natural numbers (source: Analysis I by Terence Tao). |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) The limit of an infinite sequence aₙ as n approaches infinity is equal to L if for all ε > 0 there exists a positive integer N such that \|aₙ - L\| < ε for all n > N. (3) Limits are the trick that lets you calculate a slope or an area. |
@@ -54,7 +54,7 @@ In the table below, I'll define some important words from the field of mathemati
 | List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
 | Logical argument | A series of logical statements |
 | Mathematical notation | Mathematical notation is a language for writing down mathematical ideas. |
-| Matrix | A rectangular array of numbers. Matrices are a tool that helps us solve systems of linear equations. We can write a system of linear equations as an equation of the form C * (x1, x2, ..., xn) = (c1, c2, ..., cn), where C is the coefficients matrix, (x1, x2, ..., xn) is the variables vector, and (c1, c2, ..., cn) is the constants vector. We can use the rules of matrix algebra to solve this equation for the unknowns. When we use a technique called Gaussian elimination to solve a system of linear equations, we are actually using the rules of matrix algebra behind the scenes. This is one application of matrices, but there are others. We also use matrices in linear transformations. |
+| Matrix | A rectangular array of numbers. Matrices have many applications, including, solving a system of linear equations, transforming a vector by means of a linear transformation, and transforming an image by means of a linear transformation. |
 | Measurement | A number accompanied by a unit of measurement. A number and a unit. (E.g. 100 yards, 24 hours, 100 gigabytes.) |
 | Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things (e.g. a model for predicting the weather); a model is a concrete representation of something abstract (e.g. there are many models of education) |
 | Natural number | (1) A natural number is any element of the set {0, 1, 2, 3, 4, ...} (source: Analysis I by Terence Tao) (2) A natural number is any number defined by the Peano axioms (3) A natural number is zero or any number that can be obtained from zero by incrementing (source: Analysis I by Terence Tao) |
