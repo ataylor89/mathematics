@@ -33,7 +33,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Best decision | The best possible decision |
 | Best move | The best possible move |
 | Calculus | Calculating a slope or an area; calculating a slope, area, or volume |
-| Cauchy sequence | (1) A sequence of rational numbers aₙ is a Cauchy sequence if and only if for every rational ε > 0 there exists an integer N >= 0 such that \|aⱼ - aₖ\| <= ε for all j, k >= N (source: Analysis I by Terence Tao). (2) A sequence of rational numbers is a Cauchy sequence iff for all ε > 0 there exists an index after which any two elements are epsilon-close. (3) Cauchy sequences are a tool that helps us construct real numbers. Every Cauchy sequence is bounded. Some Cauchy sequences, but not all, converge in the rational numbers. Every Cauchy sequence converges in the real numbers. We say that Cauchy sequences are the next best thing to convergent sequences. |
+| Cauchy sequence | (1) A sequence of rational numbers aₙ is a Cauchy sequence if for every rational ε > 0 there exists an integer N ≥ 0 such that \|aⱼ - aₖ\| <= ε for all j, k ≥ N (source: Analysis I by Terence Tao). (2) A sequence of rational numbers is a Cauchy sequence if for every rational ε > 0 there exists an index after which any two elements are epsilon-close. (3) Cauchy sequences are a tool that helps us construct real numbers. Every Cauchy sequence is bounded. Some Cauchy sequences, but not all, converge in the rational numbers. Every Cauchy sequence converges in the real numbers. We say that Cauchy sequences are the next best thing to convergent sequences. |
 | Combinatorics | The field of mathematics concerned with counting |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
@@ -73,7 +73,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Rational number | A rational number is an expression of the form a / b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao). |
 | Rationale | A reason or an argument |
 | Real analysis | The study of real numbers, real sequences, real series, and real functions. The theoretical foundation that underlies calculus (source: Analysis I by Terence Tao). |
-| Real number | A real number is a point on the number line. A real number is the equivalence class of a Cauchy sequence. A real number is the limit of a Cauchy sequence. We use sequences to approximate numbers like Pi or sqrt(2), which is why we can think of a real number as a sequence of rational numbers. Intuitively, a real number is a sequence of rational numbers or a point on the number line. |
+| Real number | (Informal) A real number is a point on the number line (Formal) A real number is a Cauchy sequence |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the risk-reward vectors of two different decisions; comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
