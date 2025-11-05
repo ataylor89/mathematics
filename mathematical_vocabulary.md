@@ -57,8 +57,8 @@ In the table below, I'll define some important words from the field of mathemati
 | Matrix | A rectangular array of numbers. Matrices are a tool that helps us solve systems of linear equations. We can write a system of linear equations as an equation of the form C * (x1, x2, ..., xn) = (c1, c2, ..., cn), where C is the coefficients matrix, (x1, x2, ..., xn) is the variables vector, and (c1, c2, ..., cn) is the constants vector. We can use the rules of matrix algebra to solve this equation for the unknowns. When we use a technique called Gaussian elimination to solve a system of linear equations, we are actually using the rules of matrix algebra behind the scenes. This is one application of matrices, but there are others. We also use matrices in linear transformations. |
 | Measurement | A number accompanied by a unit of measurement. A number and a unit. (E.g. 100 yards, 24 hours, 100 gigabytes.) |
 | Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things (e.g. a model for predicting the weather); a model is a concrete representation of something abstract (e.g. there are many models of education) |
-| Natural number | A natural number is any element of the set {0, 1, 2, 3, 4, ...} (source: Analysis I by Terence Tao). A natural number is any number defined by the Peano axioms. A natural number is zero or any number that can be obtained from zero by incrementing (source: Analysis I by Terence Tao). |
-| Notation | A notation is a language (e.g. mathematical notation, decimal notation, hexadecimal notation, chess notation, algebraic notation, descriptive notation) |
+| Natural number | (1) A natural number is any element of the set {0, 1, 2, 3, 4, ...} (source: Analysis I by Terence Tao) (2) A natural number is any number defined by the Peano axioms (3) A natural number is zero or any number that can be obtained from zero by incrementing (source: Analysis I by Terence Tao) |
+| Notation | A notation is a language (e.g. mathematical notation, decimal notation, chess notation) |
 | Number theory | The study of numbers |
 | Outcome tree | A tree of possible outcomes. It's important for the list/tree to be psychologically safe. |
 | Parser | A parser breaks a whole into its parts; a parser breaks a word, sentence, or file into its parts; the word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" |
@@ -72,10 +72,10 @@ In the table below, I'll define some important words from the field of mathemati
 | Provenance | What came before (e.g. it is so hard to explain the provenance of that tweet) |
 | Rational number | A rational number is an expression of the form a / b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao). |
 | Rationale | A reason or an argument |
-| Real analysis | The study of real numbers, real sequences, real series, and real functions. The theoretical foundation that underlies calculus (source: Analysis I by Terence Tao). |
+| Real analysis | (1) The study of real numbers (2) The theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
 | Real number | (Informal) A real number is a point on the number line (Formal) A real number is a Cauchy sequence |
 | Risk | A probability; a probability measurement from 0% to 100% |
-| Risk comparison | Comparing the risk-reward vectors of two different decisions; comparing the risk profiles of two different decisions |
+| Risk comparison | Comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
 | Structure | A set with operations and relations (e.g. algebraic structures). A structure has everything we need to write equations. |
 | System | A system is a list (e.g. system of linear equations). A system is a procedure (e.g. long addition is a system for adding numbers). A system is a list of instructions or a list of steps. A system is a set (e.g. the decimal system, the base ten number system). A system is a set of parts that work together and form a whole (e.g. digestive system, respiratory system, immune system, nervous system, cardiovascular system, operating system, computer system). |
