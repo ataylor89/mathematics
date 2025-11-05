@@ -45,7 +45,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
 | Formula | A formula is an equation or part of an equation. (E.g. Pi r squared is a formula for the area of a circle of radius r.) |
-| Gaussian elimination | (1) Matrix algebra (2) Gaussian elimination is a system we can use to solve a system of linear equations, in which we perform row operations on an augmented matrix. (We can also use Gaussian elimination to invert a matrix, if the matrix is invertible.) |
+| Gaussian elimination | (1) Matrix algebra (2) A system for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
 | Idea | An idea is a word or phrase; an idea is a word, phrase, or sentence |
 | Integer | An integer is an expression of the form a - b, where a and b are natural numbers (source: Analysis I by Terence Tao). |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) The limit of an infinite sequence aₙ as n approaches infinity is equal to L if for all ε > 0 there exists a positive integer N such that \|aₙ - L\| < ε for all n > N. (3) Limits are the trick that lets you calculate a slope or an area. |
