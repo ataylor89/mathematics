@@ -1,4 +1,4 @@
-# mathematical vocabulary
+# mathematics vocabulary
 
 ## Introduction
 
@@ -45,7 +45,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
 | Formula | A formula is an equation or part of an equation. (E.g. Pi r squared is a formula for the area of a circle of radius r.) |
-| Gaussian elimination | (1) Matrix algebra (2) A system for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
+| Gaussian elimination | (1) Matrix algebra (2) A method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
 | Idea | An idea is a word or phrase; an idea is a word, phrase, or sentence |
 | Integer | An integer is an expression of the form a - b, where a and b are natural numbers (source: Analysis I by Terence Tao). |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all e > 0 there exists a d > 0 such that 0 < \|x - a\| < d implies \|f(x) - L\| < e. (2) The limit of an infinite sequence aₙ as n approaches infinity is equal to L if for all ε > 0 there exists a positive integer N such that \|aₙ - L\| < ε for all n > N. (3) Limits are the trick that lets you calculate a slope or an area. |
@@ -54,7 +54,7 @@ In the table below, I'll define some important words from the field of mathemati
 | List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
 | Logical argument | A series of logical statements |
 | Mathematical notation | Mathematical notation is a language for writing down mathematical ideas. |
-| Mathematics | (1) Mathematics is numbers (2) Mathematics is the study of numbers (3) Mathematics is the language of numbers |
+| Mathematics | Mathematics is numbers; mathematics is the study of numbers; mathematics is the language of numbers |
 | Matrix | A rectangular array of numbers. We can use matrices to solve a system of linear equations. We can also use matrices to transform a vector or an image by means of a linear transformation. |
 | Measurement | A number accompanied by a unit of measurement. A number and a unit. (E.g. 100 yards, 24 hours) |
 | Model | A model is a system; a model is a pattern; a model is a system that can be used to explain things or predict things (e.g. a model for predicting the weather); a model is a concrete representation of something abstract (e.g. there are many models of education) |
@@ -73,13 +73,13 @@ In the table below, I'll define some important words from the field of mathemati
 | Provenance | What came before (e.g. it is so hard to explain the provenance of that tweet) |
 | Rational number | A rational number is an expression of the form a / b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao). |
 | Rationale | A reason or an argument |
-| Real analysis | (1) The study of real numbers (2) The theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
+| Real analysis | The study of real numbers; the theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
 | Real number | (Informal) A real number is a point on the number line (Formal) A real number is a Cauchy sequence |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
 | Structure | A set with operations and relations (e.g. algebraic structures). A structure has everything we need to write equations. |
-| System | A system is a list (e.g. system of linear equations). A system is a procedure (e.g. long addition is a system for adding numbers). A system is a list of instructions or a list of steps. A system is a set (e.g. the decimal system, the base ten number system). A system is a set of parts that work together and form a whole (e.g. digestive system, respiratory system, immune system, nervous system, cardiovascular system, operating system, computer system). |
+| System | A system is a list (e.g. system of linear equations). A system is a procedure (e.g. long addition is a system for adding numbers). A system is a list of instructions or a list of steps. A system is a set (e.g. the decimal system). A system is a set of parts that work together and form a whole (e.g. digestive system, respiratory system, immune system, nervous system, cardiovascular system, operating system, computer system). |
 | The fundamental theorem of algebra | Let P(x) be a polynomial of degree n, where n is a positive integer. Then P(x) has exactly n complex roots and P(x) = 0 has exactly n complex solutions. |
 | The fundamental theorem of arithmetic | Every positive integer greater than one has a unique prime factorization. |
 | The fundamental theorem of calculus | Let f(x) be a real-valued function that is continuous on the closed interval [a, b]. Then the definite integral of f(x) from a to b is equal to F(b) - F(a), where F is any antiderivative of f. |
@@ -88,4 +88,4 @@ In the table below, I'll define some important words from the field of mathemati
 | Variable | A variable is a container that holds a value. |
 | Vector | A list of numbers |
 | Verify | Confirm that something is true (e.g. verify a story, verify a claim, verify an identity) |
-| Zero | Zero is the first natural number, as defined by the Peano axioms. Zero is the additive identity in the real number field. |
+| Zero | Zero is the first natural number, as defined by the Peano axioms. Zero is the additive identity. |
