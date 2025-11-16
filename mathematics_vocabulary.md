@@ -20,7 +20,7 @@ Anyone can be a mathematician.
 
 In the table below, I'll define some important words from the field of mathematics.
 
-## Mathematical vocabulary
+## Mathematics vocabulary
 
 | Word | Definition
 |----- | ----------
