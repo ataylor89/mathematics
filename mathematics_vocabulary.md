@@ -85,7 +85,7 @@ In the table below, I'll define some important words from the field of mathemati
 | The fundamental theorem of calculus | Let f(x) be a real-valued function that is continuous on the closed interval [a, b]. Then the definite integral of f(x) from a to b is equal to F(b) - F(a), where F is any antiderivative of f. |
 | Theory | A hypothesis |
 | Trigonometry | The study of triangles |
-| Variable | A variable is a container that holds a value. |
+| Variable | (1) A variable is a symbol that stands for an unknown value (2) A variable is a container that holds a value |
 | Vector | A list of numbers |
 | Verify | Confirm that something is true (e.g. verify a story, verify a claim, verify an identity) |
 | Zero | Zero is the first natural number, as defined by the Peano axioms. Zero is the additive identity. |
