@@ -44,7 +44,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Expected value | The expected value formula is E(x) = Σ P(xᵢ) * xᵢ, where P(xᵢ) is the probability of the ith possible outcome, and xᵢ is the value associated with the ith possible outcome |
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
-| Formula | A formula is an equation or part of an equation. (E.g. Pi r squared is a formula for the area of a circle of radius r.) |
+| Formula | A formula is an equation or part of an equation. (E.g. πr² is a formula for the area of a circle of radius r.) |
 | Gaussian elimination | (1) Matrix algebra (2) A method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
 | Idea | An idea is a word or phrase; an idea is a word, phrase, or sentence |
 | Integer | An integer is an expression of the form a - b, where a and b are natural numbers (source: Analysis I by Terence Tao). |
