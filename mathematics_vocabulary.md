@@ -46,6 +46,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Fact | A truth; a certainty |
 | Formula | A formula is an equation or part of an equation. (E.g. πr² is a formula for the area of a circle of radius r.) |
 | Gaussian elimination | (1) Matrix algebra (2) A method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
+| Geometry | Geometry is the study of lines and shapes |
 | Idea | An idea is a word or phrase; an idea is a word, phrase, or sentence |
 | Integer | An integer is an expression of the form a - b, where a and b are natural numbers (source: Analysis I by Terence Tao). |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all ε > 0 there exists a δ > 0 such that 0 < \|x - a\| < δ implies \|f(x) - L\| < ε. (2) The limit of an infinite sequence aₙ as n approaches infinity is equal to L if for all ε > 0 there exists a positive integer N such that \|aₙ - L\| < ε for all n > N. (3) Limits are the trick that lets you calculate a slope or an area. |
