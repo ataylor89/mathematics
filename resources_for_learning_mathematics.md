@@ -15,14 +15,20 @@ Here is a list of resources for learning mathematics:
     - Mathcounts problems are really fun
     - On average, Mathcounts problems are easier than AMC problems, but...
     - The hardest Mathcounts problems are very difficult and they're more difficult than most AMC problems
-4. Learning a programming language teaches you a lot about mathematics (e.g. Python, Java, C/C++, HTML, JavaScript, CSS, etc)
-5. Learning chess teaches you a lot about mathematics (finding the best move or the best moves, tactics, strategy, endgames, etc)
-6. Alcumus: https://artofproblemsolving.com/alcumus
+4. Mathcounts Problem of the Week: https://www.mathcounts.org/resources/problem-week-archive
+5. Learning a programming language teaches you a lot about mathematics (e.g. Python, Java, C/C++, HTML, JavaScript, CSS, etc)
+6. Learning chess teaches you a lot about mathematics (finding the best move or the best moves, tactics, strategy, endgames, etc)
+7. Alcumus: https://artofproblemsolving.com/alcumus
     - Alcumus lets you solve math problems online, one by one
     - Alcumus is as fun, and as instructive, as the AMC/AIME/Putnam exams
     - I'm really grateful for Alcumus and I love using Alcumus in my spare time
-7. The Art and Craft of Problem Solving by Paul Zeitz
+8. The Art and Craft of Problem Solving by Paul Zeitz
     - I bought this book in high school, after a friend of mine recommended it
     - I started reading this book in my senior year of high school
     - I worked through the problems, and learned a lot about problem solving
     - I still read this book today
+9. Analysis I by Terence Tao
+    - This is one of my favorite books on mathematics
+    - Terence Tao is one of my role models so I love to read his writing
+    - I often refer to this book when I want to learn about the construction of the real numbers, or the definition of a limit, or convergence tests, or any other topic in calculus or analysis
+    - I feel like I got a really good grasp of analysis from reading this book. I like to say that real analysis is the study of real numbers. I learned a lot about real numbers, real-valued sequences, and real-valued functions.
