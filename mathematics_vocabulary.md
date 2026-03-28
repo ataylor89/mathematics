@@ -27,6 +27,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Algebra | (1) The study of equations (2) The field of math concerned with solving for an unknown (3) Arithmetic with variables |
 | Algorithm | A list of instructions |
 | Analysis | Analysis is the rigorous study of mathematical objects (source: Analysis I by Terence Tao) |
+| Antiderivative | The antiderivative of f(x) is any function whose derivative is f(x) |
 | Argument | An argument is a series of statements that works toward a conclusion |
 | Arithmetic | Math using the basic arithmetic operations (e.g. + - * / powers and roots) |
 | Best case scenario | The best possible outcome |
@@ -49,6 +50,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Gaussian elimination | A method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
 | Geometry | Geometry is the study of points, lines, and shapes |
 | Idea | An idea is something immaterial. (For example, we can contrast the idea of a table with a physical table.) An idea can be a word, phrase, sentence, text, plan, or suggestion. |
+| Indefinite integral | The indefinite integral of f(x) is the set of all antiderivatives of f(x). It is a family of functions and it is represented by the general form F(x) + C, where F'(x) = f(x) and C is the constant of integration. Continuity is the sufficient condition for integration. If a function f(x) is continuous on a closed interval [a, b], then it is integrable. |
 | Integer | An integer is an expression of the form a - b, where a and b are natural numbers (source: Analysis I by Terence Tao). |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all ε > 0 there exists a δ > 0 such that 0 < \|x - a\| < δ implies \|f(x) - L\| < ε. (2) The limit of an infinite sequence aₙ as n approaches infinity is equal to L if for all ε > 0 there exists a positive integer N such that \|aₙ - L\| < ε for all n > N. (3) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
