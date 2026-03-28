@@ -34,7 +34,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Best move | The best possible move |
 | Calculus | The field of math concerned with calculating a slope, an area, or a volume |
 | Cauchy sequence | (1) A sequence of rational numbers aₙ is a Cauchy sequence if for every rational ε > 0 there exists an integer N ≥ 0 such that \|aⱼ - aₖ\| <= ε for all j, k ≥ N (source: Analysis I by Terence Tao). (2) A sequence of rational numbers is a Cauchy sequence if for every rational ε > 0 there exists an index after which any two elements are epsilon-close. (3) Cauchy sequences are a tool that helps us construct real numbers. Every Cauchy sequence is bounded. Some Cauchy sequences, but not all, converge in the rational numbers. Every Cauchy sequence converges in the real numbers. We say that Cauchy sequences are the next best thing to convergent sequences. |
-| Combinatorics | The field of mathematics concerned with counting |
+| Combinatorics | The field of math concerned with counting |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Decision tree | A tree of possible decisions |
@@ -46,7 +46,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Fact | A truth; a certainty |
 | Formula | A formula is a mathematical expression or a mathematical equation. (E.g. πr² is a formula for the area of a circle of radius r.) |
 | Gaussian elimination | A method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
-| Geometry | Geometry is the study of points, lines and shapes |
+| Geometry | Geometry is the study of points, lines, and shapes |
 | Idea | An idea is something immaterial. (For example, we can contrast the idea of a table with a physical table.) An idea can be a word, phrase, sentence, text, plan, or suggestion. |
 | Integer | An integer is an expression of the form a - b, where a and b are natural numbers (source: Analysis I by Terence Tao). |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all ε > 0 there exists a δ > 0 such that 0 < \|x - a\| < δ implies \|f(x) - L\| < ε. (2) The limit of an infinite sequence aₙ as n approaches infinity is equal to L if for all ε > 0 there exists a positive integer N such that \|aₙ - L\| < ε for all n > N. (3) Limits are the trick that lets you calculate a slope or an area. |
