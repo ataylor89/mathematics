@@ -38,6 +38,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Combinatorics | The field of math concerned with counting |
 | Complex number | An expression of the form a + bi, where a and b are real numbers, and i is the imaginary unit |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
+| Continuity | Let f(x) be a real-valued function. f(x) is continuous at a point a in its domain if lim x->a f(x) = f(a). f(x) is continuous everywhere if it is continuous at every point in its domain. f(x) is continuous on a closed interval [a, b] if it is continuous at every point in the closed interval [a, b]. |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Decision tree | A tree of possible decisions |
 | Definite integral | Let f(x) be a real-valued function that is continuous on the closed interval [a, b]. The definite integral of f(x) from a to b is the rectangle approximation of the area under the curve as the number of rectangles approaches infinity. This rectangle approximation is often called a Riemann sum. The area under the curve is bounded by x=a, x=b, f(x), and y=0. We use the definite integral to calculate the area under a curve. |
