@@ -35,6 +35,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Calculus | The field of math concerned with calculating a slope, an area, or a volume |
 | Cauchy sequence | (1) A sequence of rational numbers aₙ is a Cauchy sequence if for every rational ε > 0 there exists an integer N ≥ 0 such that \|aⱼ - aₖ\| <= ε for all j, k ≥ N (source: Analysis I by Terence Tao). (2) A sequence of rational numbers is a Cauchy sequence if for every rational ε > 0 there exists an index after which any two elements are epsilon-close. (3) Cauchy sequences are a tool that helps us construct real numbers. Every Cauchy sequence is bounded. Some Cauchy sequences, but not all, converge in the rational numbers. Every Cauchy sequence converges in the real numbers. We say that Cauchy sequences are the next best thing to convergent sequences. |
 | Combinatorics | The field of math concerned with counting |
+| Complex number | An expression of the form a + bi, where a and b are real numbers, and i is the imaginary unit |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
 | Cost benefit analysis | We can measure the cost and benefit of a decision |
 | Decision tree | A tree of possible decisions |
@@ -79,6 +80,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the risk profiles of two different decisions |
 | Risk reward analysis | We can measure the risk and reward of a decision |
+| Roots of unity | The nth roots of unity are the n complex solutions to the equation x^n = 1. There are exactly n complex solutions, counting multiplicity. We can actually construct a regular n-gon in the complex plane by plotting the nth roots of unity. For example, we can construct a regular hexagon in the complex plane by plotting the sixth roots of unity. |
 | Structure | A set with operations and relations (e.g. algebraic structures). A structure has everything we need to write equations. |
 | System | A system is a list (e.g. system of linear equations). A system is a procedure (e.g. long addition is a system for adding numbers). A system is a list of instructions or a list of steps. A system is a set (e.g. the decimal system). A system is a set of parts that work together and form a whole (e.g. operating system, computer system). |
 | The fundamental theorem of algebra | Let P(x) be a polynomial of degree n, where n is a positive integer. Then P(x) has exactly n complex roots and P(x) = 0 has exactly n complex solutions, up to multiplicity. (E.g. the polynomial P(x) = (x-1)^2 has two roots up to multiplicity, because the factor (x-1) repeats two times.) |
