@@ -32,3 +32,8 @@ Here is a list of resources for learning mathematics:
     - Terence Tao is one of my role models so I love to read his writing
     - I often refer to this book when I want to learn about the construction of the real numbers, or the definition of a limit, or convergence tests, or any other topic in calculus or analysis
     - I feel like I got a really good grasp of analysis from reading this book. I like to say that real analysis is the study of real numbers. I learned a lot about real numbers, real-valued sequences, and real-valued functions.
+10. TeXeR: https://artofproblemsolving.com/texer/
+    - TeXeR is a feature on the AoPS website that lets you write mathematical documents using LaTeX
+    - LaTeX is a markup language for mathematics
+    - A markup language is a computer language that lets you define the structure and format of a document
+    - HTML, Markdown, and LaTeX are three examples of markup languages
