@@ -24,15 +24,15 @@ In the table below, I'll define some important words from the field of mathemati
 
 | Word | Definition
 |----- | ----------
-| Algebra | Solving for an unknown; the study of equations; arithmetic with variables |
+| Algebra | (1) The study of equations (2) The field of math concerned with solving for an unknown (3) Arithmetic with variables |
 | Algorithm | A list of instructions |
 | Analysis | Analysis is the rigorous study of mathematical objects (source: Analysis I by Terence Tao) |
 | Argument | An argument is a series of statements that works toward a conclusion. |
-| Arithmetic | Math using the basic arithmetic operations (e.g. + - * / powers roots and modulo) |
+| Arithmetic | Math using the basic arithmetic operations (e.g. + - * / powers and roots) |
 | Best case scenario | The best possible outcome |
 | Best decision | The best possible decision |
 | Best move | The best possible move |
-| Calculus | Calculating a slope or an area; calculating a slope, area, or volume |
+| Calculus | The field of math concerned with calculating a slope, an area, or a volume |
 | Cauchy sequence | (1) A sequence of rational numbers aₙ is a Cauchy sequence if for every rational ε > 0 there exists an integer N ≥ 0 such that \|aⱼ - aₖ\| <= ε for all j, k ≥ N (source: Analysis I by Terence Tao). (2) A sequence of rational numbers is a Cauchy sequence if for every rational ε > 0 there exists an index after which any two elements are epsilon-close. (3) Cauchy sequences are a tool that helps us construct real numbers. Every Cauchy sequence is bounded. Some Cauchy sequences, but not all, converge in the rational numbers. Every Cauchy sequence converges in the real numbers. We say that Cauchy sequences are the next best thing to convergent sequences. |
 | Combinatorics | The field of mathematics concerned with counting |
 | Confidence | Confidence is a measurement of how certain you are (a percentage from 0% to 100%) |
@@ -44,10 +44,10 @@ In the table below, I'll define some important words from the field of mathemati
 | Expected value | The expected value formula is E(x) = Σ P(xᵢ) * xᵢ, where P(xᵢ) is the probability of the ith possible outcome, and xᵢ is the value associated with the ith possible outcome |
 | Expected value argument | An argument based on expected value |
 | Fact | A truth; a certainty |
-| Formula | A formula is an equation or part of an equation. (E.g. πr² is a formula for the area of a circle of radius r.) |
-| Gaussian elimination | (1) Matrix algebra (2) A method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
-| Geometry | Geometry is the study of lines and shapes |
-| Idea | An idea is a word or phrase; an idea is a word, phrase, or sentence |
+| Formula | A formula is a mathematical expression or a mathematical equation. (E.g. πr² is a formula for the area of a circle of radius r.) |
+| Gaussian elimination | A method for solving a system of linear equations, in which we perform row operations on an augmented matrix. (It can also be used to invert a matrix, if the matrix is invertible.) |
+| Geometry | Geometry is the study of points, lines and shapes |
+| Idea | An idea is something immaterial. (For example, we can contrast the idea of a table with a physical table.) An idea can be a word, phrase, sentence, text, plan, or suggestion. |
 | Integer | An integer is an expression of the form a - b, where a and b are natural numbers (source: Analysis I by Terence Tao). |
 | Limit | (1) The limit of a real-valued function f(x) as x approaches a is equal to L if for all ε > 0 there exists a δ > 0 such that 0 < \|x - a\| < δ implies \|f(x) - L\| < ε. (2) The limit of an infinite sequence aₙ as n approaches infinity is equal to L if for all ε > 0 there exists a positive integer N such that \|aₙ - L\| < ε for all n > N. (3) Limits are the trick that lets you calculate a slope or an area. |
 | Linear algebra | The study of linear equations |
@@ -63,7 +63,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Notation | A notation is a language (e.g. mathematical notation, decimal notation, chess notation) |
 | Number theory | The study of numbers |
 | Outcome tree | A tree of possible outcomes |
-| Parser | A parser breaks a whole into its parts; a parser breaks a word, sentence, or file into its parts; the word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" |
+| Parser | (1) A parser breaks a whole into its parts (2) A parser breaks a word, sentence, or file into its parts (3) The word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" (4) A parser reads an input, deciphers the input, and produces a parse tree, which makes the input easier to work with and understand. |
 | Pattern | A pattern is something that repeats |
 | Possibility tree | A tree of possibilities |
 | Prediction | A guess about what will happen |
@@ -74,7 +74,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Provenance | What came before (e.g. it is so hard to explain the provenance of that tweet) |
 | Rational number | A rational number is an expression of the form a / b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao). |
 | Rationale | A reason or an argument |
-| Real analysis | The study of real numbers; the theoretical foundation that underlies calculus (source: Analysis I by Terence Tao) |
+| Real analysis | The study of real numbers and real-valued functions |
 | Real number | (Informal) A real number is a point on the number line (Formal) A real number is a Cauchy sequence |
 | Risk | A probability; a probability measurement from 0% to 100% |
 | Risk comparison | Comparing the risk profiles of two different decisions |
@@ -85,7 +85,7 @@ In the table below, I'll define some important words from the field of mathemati
 | The fundamental theorem of arithmetic | Every positive integer greater than one has a unique prime factorization. |
 | The fundamental theorem of calculus | Let f(x) be a real-valued function that is continuous on the closed interval [a, b]. Then the definite integral of f(x) from a to b is equal to F(b) - F(a), where F is any antiderivative of f. |
 | Theory | A hypothesis |
-| Trigonometry | The study of triangles |
+| Trigonometry | The study of the relationships between the side lengths and the angles of a right triangle |
 | Variable | (1) A variable is a symbol that stands for an unknown value (2) A variable is a container that holds a value |
 | Vector | A list of numbers |
 | Verify | Confirm that something is true (e.g. verify a story, verify a claim, verify an identity) |
