@@ -27,7 +27,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Algebra | (1) The study of equations (2) The field of math concerned with solving for an unknown (3) Arithmetic with variables |
 | Algorithm | A list of instructions |
 | Analysis | Analysis is the rigorous study of mathematical objects (source: Analysis I by Terence Tao) |
-| Antiderivative | The antiderivative of f(x) is any function whose derivative is f(x) |
+| Antiderivative | An antiderivative of f(x) is any function whose derivative is f(x) |
 | Argument | An argument is a series of statements that works toward a conclusion |
 | Arithmetic | Math using the basic arithmetic operations (e.g. + - * / powers and roots) |
 | Best case scenario | The best possible outcome |
