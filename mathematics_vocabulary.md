@@ -54,7 +54,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Linear algebra | The study of linear equations |
 | Linear transformation | A function of the form f(x) = Ax, or an equation of the form y = Ax, where x is a vector and A is a transformation matrix. Every linear transformation can be written as a function (or equation) of this form. We can use linear transformations to stretch, shrink, rotate, or reflect a vector in the Cartesian coordinate system. We can also use linear transformations to rotate or reflect an image in the Cartesian coordinate system by applying a linear transformation to the coordinates of every pixel in the image. |
 | List of possibilities | A list of possibilities. It's important for the list of possibilities to be psychologically safe. |
-| Logical argument | A series of logical statements |
+| Logical argument | A logical argument is a series of statements that works toward a conclusion |
 | Mathematical notation | Mathematical notation is a language for writing down mathematical ideas |
 | Mathematics | (1) Mathematics is the study of numbers (2) Mathematics is the language of numbers |
 | Matrix | A rectangular array of numbers. We can use matrices to solve a system of linear equations. We can also use matrices to transform a vector or an image by means of a linear transformation. |
