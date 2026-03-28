@@ -35,5 +35,5 @@ Here is a list of resources for learning mathematics:
 10. TeXeR: https://artofproblemsolving.com/texer/
     - TeXeR is a feature on the AoPS website that lets you write mathematical documents using LaTeX
     - LaTeX is a markup language for mathematics
-    - A markup language is a computer language that lets you format a document
+    - A markup language is a computer language that helps you format a document
     - HTML, Markdown, and LaTeX are three examples of markup languages
