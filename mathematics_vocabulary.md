@@ -1,5 +1,11 @@
 # mathematics vocabulary
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Mathematics vocabulary](#mathematics-vocabulary)
+3. [Afterword](#afterword)
+
 ## Introduction
 
 Mathematics is really my chosen profession.
@@ -95,3 +101,9 @@ In the table below, I'll define some important words from the field of mathemati
 | Vector | A list of numbers |
 | Verify | Confirm that something is true (e.g. verify a story, verify a claim, verify an identity) |
 | Zero | Zero is the first natural number, as defined by the Peano axioms. Zero is the additive identity. |
+
+## Afterword
+
+I like to say, "You can be anything you want to be, as long as it's ethical." If you want to be a mathematician, you can be a mathematician. If you want to be a chess player, you can be a chess player. If you want to be a computer scientist, you can be a computer scientist. If you want to be a writer, you can be a writer. If you want to be a musician, you can be a musician. If you want to be an artist, you can be an artist.
+
+The sky is the limit for everyone.
