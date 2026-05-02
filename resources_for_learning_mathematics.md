@@ -7,7 +7,7 @@ I can update this document over time, and add new resources to the list
 Here is a list of resources for learning mathematics:
 
 1. The Art of Problem Solving e-books: https://artofproblemsolving.com/store/online
-    - These e-books help you solve problems on the AMC, AIME, USAMO, IMO, and Putnam exams
+    - These e-books help you solve problems on the Mathcounts, AMC, AIME, USAMO, IMO, and Putnam exams
 2. Contest problems: https://artofproblemsolving.com/community/c3510133_maa_amc
     - The AMC8, AMC10, and AMC12 exams are good exams to start with
     - AMC problems are hard... and AIME problems are even harder
