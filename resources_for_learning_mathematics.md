@@ -26,22 +26,22 @@ Here is a list of resources for learning mathematics:
     - Mathcounts Trainer is as enjoyable, and as rewarding, as Alcumus
     - Mathcounts Trainer lets you solve Mathcounts problems, and it also teaches you the Mathcounts curriculum
     - I really enjoy using Alcumus and Mathcounts Trainer in my spare time
-9. The Art and Craft of Problem Solving by Paul Zeitz
-    - I bought this book in high school, after a friend of mine recommended it
-    - I started reading this book in my senior year of high school
-    - I worked through the problems, and learned a lot about problem solving
-    - I still read this book today
-10. Analysis I by Terence Tao
-    - This is one of my favorite books on mathematics
-    - Terence Tao is one of my role models so I love to read his writing
-    - I often refer to this book when I want to learn about the construction of the real numbers, or the definition of a limit, or convergence tests, or any other topic in calculus or analysis
-    - I feel like I got a really good grasp of analysis from reading this book. I like to say that real analysis is the study of real numbers. I learned a lot about real numbers, real-valued sequences, and real-valued functions.
-11. TeXeR: https://artofproblemsolving.com/texer/
+9. TeXeR: https://artofproblemsolving.com/texer/
     - TeXeR is a feature on the AoPS website that lets you write mathematical documents using LaTeX
     - LaTeX is a markup language for mathematics
     - A markup language is a computer language that helps you format a document
     - HTML, Markdown, and LaTeX are three examples of markup languages
-12. Terence Tao's Masterclass on mathematical thinking: https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/
+10. The Art and Craft of Problem Solving by Paul Zeitz
+    - I bought this book in high school, after a friend of mine recommended it
+    - I started reading this book in my senior year of high school
+    - I worked through the problems, and learned a lot about problem solving
+    - I still read this book today
+11. Analysis I by Terence Tao
+    - This is one of my favorite books on mathematics
+    - Terence Tao is one of my role models so I love to read his writing
+    - I often refer to this book when I want to learn about the construction of the real numbers, or the definition of a limit, or convergence tests, or any other topic in calculus or analysis
+    - I feel like I got a really good grasp of analysis from reading this book. I like to say that real analysis is the study of real numbers. I learned a lot about real numbers, real-valued sequences, and real-valued functions.
+12. Terence Tao's Masterclass: https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/
     - I finished watching Terence Tao's Masterclass on mathematical thinking earlier this month (that is, in June 2026)
     - I loved it... I really enjoyed hearing him speak, learning his vocabulary, and hearing his thoughts on mathematics
     - There are specific moments that stand out... like the video that talks about polling, sampling, and randomization, the video that talks about using stories and narratives to solve problems, and the video that transforms a difficult problem into a game of tic tac toe
