@@ -33,10 +33,10 @@ Encrypt algorithm:
 6. Let chr be a function that returns a Unicode character for a Unicode code point
 7. Let b64encode be a function that encodes a string in base64
 8. For each character in our message
-- Let codepoint = ord(character)
-- If codepoint + key > max_unicode, then raise an error
-- Let target = codepoint + key
-- Let ciphertext = ciphertext + chr(target)
+    a. Let codepoint = ord(character)
+    b. If codepoint + key > max_unicode, then raise an error
+    c. Let target = codepoint + key
+    d. Let ciphertext = ciphertext + chr(target)
 9. Let encoded_ciphertext = b64encode(ciphertext)
 10. Return encoded_ciphertext
 
