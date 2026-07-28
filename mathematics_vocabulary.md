@@ -81,7 +81,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Probability | The chance or likelihood that something will happen |
 | Proof | A correct argument; an argument that is correct; a sequence of statements that demonstrates a conclusion is true; a sequence of steps that demonstrates a conclusion is true |
 | Property | (1) A property is a statement you can make about some object (source: Groups and Fields by D Jeremy Copeland). (2) A property is a thing that belongs to another thing. (3) For example, we can talk about the properties of real numbers, the properties of prime numbers, the properties of an equilateral triangle, the properties of a circle, the properties of a regular polyhedron, et cetera. |
-| Provenance | (1) What came before (e.g. it is so hard to explain the provenance of that tweet) (2) History; the provenance of something is the history of that thing |
+| Provenance | (1) What came before (e.g. it is so hard to explain the provenance of that tweet) (2) History; the provenance of something is the history of that thing (e.g. the provenance of an appointment, the provenance of an idea) |
 | Rational number | A rational number is an expression of the form a / b, where a and b are integers and b is non-zero (source: Analysis I by Terence Tao). |
 | Rationale | A reason or an argument |
 | Real analysis | The study of real numbers and real-valued functions |
