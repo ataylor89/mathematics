@@ -70,7 +70,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Measurement | A number accompanied by a unit of measurement. A number and a unit. (E.g. 100 yards, 24 hours) |
 | Model | (1) A model is a concrete example of something abstract or a small-scale representation of something that is large (e.g. there are many models of education; a model of St. Peter's Basilica) (2) A model is something that explains or predicts a scientific phenomenon (e.g. a model for predicting the weather; Newton's laws of motion are a mathematical model for predicting motion) |
 | Natural number | (1) A natural number is any element of the set {0, 1, 2, 3, 4, ...} (source: Analysis I by Terence Tao) (2) A natural number is any number defined by the Peano axioms (3) A natural number is zero or any number that can be obtained from zero by incrementing (source: Analysis I by Terence Tao) |
-| Notation | A notation is a language (e.g. mathematical notation, decimal notation, chess notation) |
+| Notation | A notation is a language or a sublanguage (e.g. mathematical notation, decimal notation, chess notation) |
 | Number theory | The study of integers and integer-valued functions |
 | Outcome tree | A tree of possible outcomes |
 | Parser | (1) A parser breaks a whole into its parts (2) A parser breaks a word, sentence, or file into its parts (3) The word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" (4) A parser reads an input, deciphers the input, and produces a parse tree, or a parse result, which makes the input easier to work with and understand. An example would be command-line argument parsing (see the built-in Python argparse module). |
