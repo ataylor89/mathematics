@@ -73,7 +73,7 @@ In the table below, I'll define some important words from the field of mathemati
 | Notation | A notation is a language (e.g. mathematical notation, decimal notation, chess notation) |
 | Number theory | The study of integers and integer-valued functions |
 | Outcome tree | A tree of possible outcomes |
-| Parser | (1) A parser breaks a whole into its parts (2) A parser breaks a word, sentence, or file into its parts (3) The word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" (4) A parser reads an input, deciphers the input, and produces a parse tree, or a parse result, which makes the input easier to work with and understand. An example would be command-line argument parsing. |
+| Parser | (1) A parser breaks a whole into its parts (2) A parser breaks a word, sentence, or file into its parts (3) The word "parser" comes from the Latin word "pars, partis" which means "part" or "parts" (4) A parser reads an input, deciphers the input, and produces a parse tree, or a parse result, which makes the input easier to work with and understand. An example would be command-line argument parsing (see the built-in Python argparse module). |
 | Pattern | A pattern is something that repeats |
 | Possibility tree | A tree of possibilities |
 | Prediction | A guess about what will happen |
