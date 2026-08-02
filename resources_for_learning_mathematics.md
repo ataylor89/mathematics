@@ -46,3 +46,9 @@ Here is a list of resources for learning mathematics:
     - I loved it... I really enjoyed hearing him speak, learning his vocabulary, and hearing his thoughts on mathematics
     - There are specific moments that stand out... like the video that talks about polling, sampling, and randomization, the video that talks about using stories and narratives to solve problems, and the video that transforms a difficult problem into a game of tic tac toe
     - I have watched it once from start to finish, and I'm excited to watch it again
+13. How To Solve It by George Pólya
+    - I remember reading this book in high school or college (if it was high school, then it was senior year, and if it was college, then it was probably freshman year)
+    - I recently revisited this book and rediscovered it
+    - It's a charming book, with a charming introduction, and it's charming from start to finish
+    - I'm especially interested in the Problems, Hints, and Solutions, which comprise Part IV of the book... I would love to work through the problems
+    - You can find the full text online at the Rutgers University website, here: https://sites.math.rutgers.edu/~zeilberg/math436/polya.pdf
